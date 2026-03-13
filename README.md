@@ -33,6 +33,11 @@ AWS • Docker • Git • GitHub Actions • CI/CD
 ## 🌟 Featured Projects
 
 ### 🤖 AI SaaS Platform
+
+<a href="https://client-sass.vercel.app/">
+  <img src="https://github.com/rampravesh19-96/pern-saas-platform/blob/main/screenshots/dashboard.PNG" width="800"/>
+</a>
+
 AI-powered SaaS platform with article generation, image generation, and subscription billing.
 
 Tech: React • Node.js • PostgreSQL • Stripe
