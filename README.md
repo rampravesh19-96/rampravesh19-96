@@ -68,8 +68,8 @@ Tech: MERN Stack • Stripe
 
 ## 🌐 Connect With Me
 
-LinkedIn: https://linkedin.com/in/YOUR-LINK  
+LinkedIn: https://www.linkedin.com/in/ram-pravesh-singh-619000186  
 
-Portfolio: https://yourportfolio.com  
+Portfolio: https://portfolio-lovat-kappa-88vd3ajwrt.vercel.app
 
 Email: praveshram1204@gmail.com
