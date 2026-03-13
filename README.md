@@ -35,7 +35,7 @@ AWS • Docker • Git • GitHub Actions • CI/CD
 ### 🤖 AI SaaS Platform
 
 <a href="https://client-sass.vercel.app">
-  <img src="https://github.com/rampravesh19-96/pern-saas-platform/blob/main/screenshots/dashboard.PNG" width="800"/>
+  <img src="https://raw.githubusercontent.com/rampravesh19-96/pern-saas-platform/main/screenshots/dashboard.PNG" width="800"/>
 </a>
 
 AI-powered SaaS platform with article generation, image generation, and subscription billing.
@@ -50,7 +50,7 @@ Tech: React • Node.js • PostgreSQL • Stripe
 ### 🏨 Hotel Booking Platform
 
 <a href="https://client-booking-seven.vercel.app">
-  <img src="https://github.com/rampravesh19-96/hotel-booking-system/blob/main/screenshots/homepage.PNG" width="800"/>
+  <img src="https://raw.githubusercontent.com/rampravesh19-96/hotel-booking-system/main/screenshots/homepage.PNG" width="800"/>
 </a>
 
 Full-stack hotel booking application with authentication, payments, and booking workflow.
@@ -65,7 +65,7 @@ Tech: React • Node.js • MongoDB • Stripe
 ### 💼 MERN Job Portal
 
 <a href="https://client-job-portal.vercel.app">
-  <img src="https://github.com/rampravesh19-96/job-portal/blob/main/screenshots/homepage.PNG" width="800"/>
+  <img src="https://raw.githubusercontent.com/rampravesh19-96/job-portal/main/screenshots/homepage.PNG" width="800"/>
 </a>
 
 Full-stack job portal connecting recruiters and job seekers with role-based dashboards and job application tracking.
@@ -80,7 +80,7 @@ Tech: React • Node.js • Express • MongoDB • Redux Toolkit • Tailwind
 ### 📚 Learning Management System
 
 <a href="https://lms-frontend-delta-nine.vercel.app">
-  <img src="https://github.com/rampravesh19-96/learning-management-system/blob/main/screenshots/home.PNG" width="800"/>
+  <img src="https://raw.githubusercontent.com/rampravesh19-96/learning-management-system/main/screenshots/home.PNG" width="800"/>
 </a>
 
 LMS platform allowing instructors to create courses and students to track progress.
