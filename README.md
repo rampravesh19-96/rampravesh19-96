@@ -94,7 +94,15 @@ Tech: React • Node.js • MongoDB
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rampravesh19-96&show_icons=true)
+![Ram's GitHub stats](https://github-readme-stats.vercel.app/api?username=rampravesh19-96&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rampravesh19-96&layout=compact)
+
+---
+
+## 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rampravesh19-96)
 
 ---
 
