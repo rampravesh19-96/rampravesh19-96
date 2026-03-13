@@ -34,7 +34,7 @@ AWS • Docker • Git • GitHub Actions • CI/CD
 
 ### 🤖 AI SaaS Platform
 
-<a href="https://client-sass.vercel.app/">
+<a href="https://client-sass.vercel.app">
   <img src="https://github.com/rampravesh19-96/pern-saas-platform/blob/main/screenshots/dashboard.PNG" width="800"/>
 </a>
 
@@ -49,7 +49,7 @@ Tech: React • Node.js • PostgreSQL • Stripe
 
 ### 🏨 Hotel Booking Platform
 
-<a href="YOUR_HOTEL_LIVE_LINK">
+<a href="https://client-booking-seven.vercel.app">
   <img src="https://github.com/rampravesh19-96/hotel-booking-system/blob/main/screenshots/homepage.PNG" width="800"/>
 </a>
 
@@ -64,7 +64,7 @@ Tech: React • Node.js • MongoDB • Stripe
 
 ### 💼 MERN Job Portal
 
-<a href="YOUR_JOB_PORTAL_LINK">
+<a href="https://client-job-portal.vercel.app">
   <img src="https://github.com/rampravesh19-96/job-portal/blob/main/screenshots/homepage.PNG" width="800"/>
 </a>
 
@@ -79,7 +79,7 @@ Tech: React • Node.js • Express • MongoDB • Redux Toolkit • Tailwind
 
 ### 📚 Learning Management System
 
-<a href="YOUR_LMS_LINK">
+<a href="https://lms-frontend-delta-nine.vercel.app">
   <img src="https://github.com/rampravesh19-96/learning-management-system/blob/main/screenshots/home.PNG" width="800"/>
 </a>
 
