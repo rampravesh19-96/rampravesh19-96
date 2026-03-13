@@ -32,13 +32,6 @@ AWS • Docker • Git • GitHub Actions • CI/CD
 
 ## 🌟 Featured Projects
 
-### 🏨 Hotel Booking Platform
-Full-stack hotel booking application with authentication, payments, and booking workflow.
-
-Tech: React • Node.js • MongoDB • Stripe
-
----
-
 ### 🤖 AI SaaS Platform
 AI-powered SaaS platform with article generation, image generation, and subscription billing.
 
@@ -46,17 +39,24 @@ Tech: React • Node.js • PostgreSQL • Stripe
 
 ---
 
+### 🏨 Hotel Booking Platform
+Full-stack hotel booking application with authentication, payments, and booking workflow.
+
+Tech: React • Node.js • MongoDB • Stripe
+
+---
+
+### 💼 MERN Job Portal
+Full-stack job portal connecting recruiters and job seekers with role-based dashboards and job application tracking.
+
+Tech: React • Node.js • Express • MongoDB • Redux Toolkit • Tailwind
+
+---
+
 ### 📚 Learning Management System
 LMS platform allowing instructors to create courses and students to track progress.
 
 Tech: React • Node.js • MongoDB
-
----
-
-### 🛒 Ecommerce Platform
-Full-stack ecommerce store with product management, cart, and secure checkout.
-
-Tech: MERN Stack • Stripe
 
 ---
 
