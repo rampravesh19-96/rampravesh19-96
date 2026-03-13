@@ -37,12 +37,18 @@ AI-powered SaaS platform with article generation, image generation, and subscrip
 
 Tech: React • Node.js • PostgreSQL • Stripe
 
+🔗 Live Demo: https://client-sass.vercel.app  
+💻 Repo: https://github.com/rampravesh19-96/pern-saas-platform
+
 ---
 
 ### 🏨 Hotel Booking Platform
 Full-stack hotel booking application with authentication, payments, and booking workflow.
 
 Tech: React • Node.js • MongoDB • Stripe
+
+🔗 Live Demo: https://client-booking-seven.vercel.app  
+💻 Repo: https://github.com/rampravesh19-96/hotel-booking-system
 
 ---
 
@@ -51,12 +57,18 @@ Full-stack job portal connecting recruiters and job seekers with role-based dash
 
 Tech: React • Node.js • Express • MongoDB • Redux Toolkit • Tailwind
 
+🔗 Live Demo: https://client-job-portal.vercel.app
+💻 Repo: https://github.com/rampravesh19-96/job-portal
+
 ---
 
 ### 📚 Learning Management System
 LMS platform allowing instructors to create courses and students to track progress.
 
 Tech: React • Node.js • MongoDB
+
+🔗 Live Demo: https://lms-frontend-delta-nine.vercel.app
+💻 Repo: https://github.com/rampravesh19-96/learning-management-system
 
 ---
 
