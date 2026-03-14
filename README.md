@@ -116,6 +116,6 @@ Tech: React • Node.js • MongoDB
 
 LinkedIn: https://www.linkedin.com/in/ram-pravesh-singh-619000186  
 
-Portfolio: https://portfolio-lovat-kappa-88vd3ajwrt.vercel.app
+Portfolio: https://portfolio-ram-ecru.vercel.app
 
 Email: praveshram1204@gmail.com
