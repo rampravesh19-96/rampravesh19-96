@@ -3,8 +3,8 @@
 **Frontend Engineer** building polished, scalable **web and mobile applications** with **React.js, React Native, Next.js, and TypeScript**.
 
 🚀 4+ years of experience in frontend engineering  
-🌐 Portfolio: https://portfolio-ram-ecru.vercel.app  
-💼 LinkedIn: https://www.linkedin.com/in/ram-pravesh-singh-619000186  
+🌐 Portfolio: https://rampravesh-dev.vercel.app 
+💼 LinkedIn: https://www.linkedin.com/in/ram-pravesh-singh
 📫 Email: praveshram1204@gmail.com  
 
 ---
