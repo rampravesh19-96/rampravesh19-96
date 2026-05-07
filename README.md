@@ -1,234 +1,137 @@
 <div align="center">
 
-# Ram Pravesh Singh
+# Hi, I'm Ram Pravesh Singh 👋
 
-### Frontend Engineer · React.js · Next.js · React Native · TypeScript
+### Frontend Engineer building production-ready React, Next.js & React Native applications
 
-I build production-ready web and mobile applications with scalable frontend architecture, polished user experiences, and reliable API-driven product flows.
+I build scalable frontend systems, polished product flows, and API-driven web/mobile experiences with **React.js**, **Next.js**, **React Native**, **TypeScript**, and **Tailwind CSS**.
 
-[Portfolio](https://rampravesh-dev.vercel.app) · [LinkedIn](https://www.linkedin.com/in/ram-pravesh-singh) · [GitHub](https://github.com/rampravesh19-96) · [LeetCode](https://leetcode.com/u/Mc2py9Qomi) · [Email](mailto:praveshram1204@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://rampravesh-dev.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ram-pravesh-singh)
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rampravesh19-96)
+[![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Mc2py9Qomi)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praveshram1204@gmail.com)
 
 </div>
 
 ---
 
-## About
+## ⚡ Snapshot
 
-I am a Frontend Engineer with **4+ years of experience** building production-ready web and mobile applications using **React.js, Next.js, React Native, TypeScript, JavaScript, and Tailwind CSS**.
-
-My work focuses on frontend systems that are clean, scalable, and practical: reusable component architecture, API integration, authentication, checkout and booking flows, form validation, performance optimization, and release-ready delivery.
-
-I have built and released portfolio-grade products with proof across **Chrome Web Store**, **Google Play Store**, **Vercel**, **GitHub**, and open-source contributions.
-
----
-
-## Core Strengths
-
-```txt
-Frontend Engineering     React.js · Next.js · TypeScript · JavaScript · Tailwind CSS
-Mobile Development       React Native · Expo · React Navigation · EAS Build
-Architecture & State     Zustand · Redux Toolkit · TanStack Query · React Hook Form · Zod
-Product Flows            Authentication · Checkout · Booking · Payments · Order Lifecycle
-Performance & UX         Core Web Vitals · Lazy Loading · Responsive UI · Loading/Error States
-Tooling & Delivery       Git · GitHub Actions · Vercel · Netlify · ESLint v9 · Jest
-```
+- **4+ years** of frontend engineering experience across web and mobile applications
+- Strong in **React.js, Next.js, React Native, TypeScript, Tailwind CSS**
+- Built product flows across **authentication, checkout, booking, payments, dashboards, and order lifecycle**
+- Shipped proof-backed projects across **Chrome Web Store, Google Play Store, Vercel, and GitHub**
+- Open-source contributions in **ESLint v9, Jest TypeScript setup, React accessibility, and frontend tooling**
 
 ---
 
-## Featured Work
+## 🚀 Featured Projects
 
-### Frontend Audit Extension
-
-Production-style Chrome extension that analyzes live webpages for **SEO**, **accessibility**, **image**, and **page structure** issues using content scripts and browser APIs.
-
-**Tech Stack**  
-React · TypeScript · Vite · Chrome Manifest V3 · Tailwind CSS · Chrome Storage API · Content Scripts
-
-**Highlights**
-
-- Multi-category audit scoring for live webpages
-- SEO, accessibility, image, and page structure checks
-- Severity-based issue recommendations
-- Restricted-page handling
-- Local audit history with Chrome Storage API
-- JSON and CSV report export
-- Polished popup UI with loading, empty, error, saved audit, and result states
-
-**Links**  
-[Chrome Web Store](https://chromewebstore.google.com/detail/frontend-audit-extension/epcflhhnpmdmngfaahodceklckhhoeil) · [Repository](https://github.com/rampravesh19-96/frontend-audit-extension)
-
----
-
-### Smart Ecommerce Platform & Admin Dashboard
-
-Production-style ecommerce platform with a customer storefront and role-based admin dashboard covering product discovery, checkout, order lifecycle, and admin operations.
-
-**Tech Stack**  
-Next.js · TypeScript · Tailwind CSS · TanStack Query · Zustand · React Hook Form · Zod · TanStack Table · Recharts · MSW · Vercel
-
-**Highlights**
-
-- Product discovery and product detail pages
-- Cart, checkout, order success, and order history flows
-- Protected customer and admin experiences
-- Admin product create/edit workflows
-- Admin order detail and status management
-- Typed mock API integrations
-- AI-powered dashboard insight cards
-- Responsive storefront and admin dashboard experience
-
-**Links**  
-[Live Demo](https://smart-ecommerce-admin.vercel.app/) · [Repository](https://github.com/rampravesh19-96/smart-ecommerce-admin)
+<table>
+  <tr>
+    <td width="33%">
+      <h3>Frontend Audit Extension</h3>
+      <p>Chrome extension for SEO, accessibility, image, and page-structure audits on live webpages.</p>
+      <p><strong>React · TypeScript · Vite · Manifest V3 · Tailwind CSS</strong></p>
+      <p>
+        <a href="https://chromewebstore.google.com/detail/frontend-audit-extension/epcflhhnpmdmngfaahodceklckhhoeil">Chrome Web Store</a> ·
+        <a href="https://github.com/rampravesh19-96/frontend-audit-extension">Code</a>
+      </p>
+    </td>
+    <td width="33%">
+      <h3>Smart Ecommerce Admin</h3>
+      <p>Ecommerce storefront and role-based admin dashboard with checkout, orders, tables, charts, and mock APIs.</p>
+      <p><strong>Next.js · TypeScript · TanStack Query · Zustand · Recharts</strong></p>
+      <p>
+        <a href="https://smart-ecommerce-admin.vercel.app/">Live Demo</a> ·
+        <a href="https://github.com/rampravesh19-96/smart-ecommerce-admin">Code</a>
+      </p>
+    </td>
+    <td width="33%">
+      <h3>Smart Service Booking App</h3>
+      <p>React Native booking app with auth, discovery, service detail, booking flow, history, and Play Store release workflow.</p>
+      <p><strong>React Native · Expo · TypeScript · Navigation · EAS Build</strong></p>
+      <p>
+        <a href="https://play.google.com/store/apps/details?id=com.rampravesh.smartservicebookingapp">Play Store</a> ·
+        <a href="https://github.com/rampravesh19-96/smart-service-booking-mobile">Code</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### Smart Service Booking App
+## 🧰 Tech Stack
 
-Production-style React Native service-booking app with validated authentication, service discovery, search, category listing, service detail, reviews, and a multi-step booking flow.
+<p>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square" />
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zod-3068B7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+</p>
 
-**Tech Stack**  
-React Native · Expo · TypeScript · React Navigation · TanStack Query · Zustand · React Hook Form · Zod · Expo Secure Store · Expo Image · Reanimated · EAS Build · Google Play Console
-
-**Highlights**
-
-- Validated auth and onboarding flow
-- Home discovery, search, category listing, and service detail screens
-- Address selection and slot selection
-- Booking summary and mock payment UX
-- Booking success, booking history, cancel/reschedule flows
-- Profile, settings, notifications, and support screens
-- AI-powered Smart Service Finder
-- Released through Google Play Console testing using Expo EAS Build and Play Store workflow
-
-**Links**  
-[Google Play Store](https://play.google.com/store/apps/details?id=com.rampravesh.smartservicebookingapp) · [Repository](https://github.com/rampravesh19-96/smart-service-booking-mobile)
-
----
-
-## Open Source & Frontend Tooling
-
-I contribute to open-source projects across React, TypeScript, frontend tooling, testing infrastructure, and accessibility-focused packages.
-
-### ESLint v9 React/TypeScript Setup
-
-Contributed ESLint v9 frontend tooling setup to an open-source React/TypeScript project, including flat config, lint script, and blocking lint error fixes.
-
-[View PR #328](https://github.com/nikhilb2/simple_invoicing/pull/328)
+**Frontend:** React.js, Next.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS  
+**Architecture:** Reusable Components, Feature-based Structure, Zustand, Redux Toolkit, TanStack Query  
+**Product Flows:** Authentication, Checkout, Booking, Payments, Order Lifecycle, Fare Recheck  
+**Mobile:** React Native, Expo, React Navigation, Secure Storage, EAS Build, Google Play Console  
+**Tooling:** Git, GitHub Actions, ESLint v9, Jest, Vercel, Netlify, Chrome Web Store  
 
 ---
 
-### Jest TypeScript Setup for Expo/React Native
+## 🛠 Open Source
 
-Set up Jest TypeScript test infrastructure for an open-source Expo/React Native project, including pnpm test script, Jest config, and pure TypeScript example tests.
-
-[View PR #26](https://github.com/RYOITABASHI/Shelly/pull/26)
-
----
-
-### React Accessibility Package TypeScript Migration
-
-Contributed to a React accessibility package TypeScript migration, including typed component props, TypeScript build configuration, and declaration handling.
-
-[View PR #20](https://github.com/KittyGiraudel/accessible-footnotes/pull/20)
-
----
-
-## Technical Stack
-
-### Frontend
-
-React.js · Next.js · TypeScript · JavaScript · HTML5 · CSS3 · Tailwind CSS · Responsive UI · Component Architecture · Accessibility · Semantic HTML
-
-### Frontend Architecture & State Management
-
-Zustand · Redux Toolkit · Context API · TanStack Query · React Hook Form · Zod · Feature-based Architecture · Reusable UI Components
-
-### Mobile Development
-
-React Native · Expo · React Navigation · Secure Storage · Gesture-based Interactions · Android App Bundle · Expo EAS Build · Google Play Console · Play Store Testing Release
-
-### Product & Business Flows
-
-Authentication · Authorization · Checkout Flow · Booking Flow · Order Management · Payment Integration · Payment Verification · Fare Recheck · Transaction-sensitive Workflows
-
-### Performance & UX
-
-Performance Optimization · Code Splitting · Lazy Loading · Rendering Optimization · Core Web Vitals · Loading States · Empty States · Error States · Mobile-first UX · Cross-browser Compatibility
-
-### Backend Integration
-
-REST APIs · API Error Handling · Form Validation · Node.js Basics · Express.js Basics · Prisma Basics · SQL Basics · Clerk · Mock APIs
-
-### Testing & Tooling
-
-Jest · TypeScript Test Setup · ESLint v9 · Debugging · Cross-browser Testing · Unit Testing · Integration Testing · Code Review · Git · GitHub · GitHub Actions · CI/CD
-
-### Deployment
-
-Vercel · Netlify · Expo EAS Build · Google Play Console · Chrome Web Store
+<table>
+  <tr>
+    <td width="33%">
+      <strong>ESLint v9 Setup</strong><br/>
+      React/TypeScript flat config, lint script, and lint error fixes.<br/>
+      <a href="https://github.com/nikhilb2/simple_invoicing/pull/328">PR #328</a>
+    </td>
+    <td width="33%">
+      <strong>Jest TypeScript Setup</strong><br/>
+      Expo/React Native test infrastructure with pnpm and TypeScript examples.<br/>
+      <a href="https://github.com/RYOITABASHI/Shelly/pull/26">PR #26</a>
+    </td>
+    <td width="33%">
+      <strong>Accessibility TS Migration</strong><br/>
+      Typed props, TypeScript build config, and declaration handling.<br/>
+      <a href="https://github.com/KittyGiraudel/accessible-footnotes/pull/20">PR #20</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Experience Snapshot
+## 💼 Experience
 
-### Frontend Engineer · Sachram Technologies
+**Frontend Engineer · Sachram Technologies**  
+Sep 2025 – Present
 
-**Sep 2025 – Present**
+**Frontend Engineer · HOI Travel Tech**  
+Jul 2024 – Aug 2025
 
-- Built and shipped reusable React.js, Next.js, and React Native feature modules across multiple client-facing products
-- Developed responsive screens, reusable components, and feature flows for web and mobile applications
-- Integrated REST APIs, authentication flows, form validation, and business workflows
-
----
-
-### Frontend Engineer · HOI Travel Tech
-
-**Jul 2024 – Aug 2025**
-
-- Built responsive travel booking journeys across search, results refinement, traveller capture, authentication, protected booking flow, and confirmation
-- Developed reusable UI components and frontend flows using React.js, Next.js, TypeScript, and Tailwind CSS
-- Integrated booking, payment, and fare recheck APIs for confirmation-sensitive user journeys
-
----
-
-### Frontend Engineer · Giottus Technology Pvt Ltd
-
-**Jan 2022 – Jun 2024**
-
-- Built ecommerce journeys across search, product detail, cart, coupons, authentication, protected checkout, and post-order visibility
-- Created responsive and reusable frontend components for key commerce flows
-- Integrated checkout, payment, and order APIs to keep pricing, auth state, and transactions aligned
-
----
-
-## Portfolio
-
-My portfolio brings together my resume, case studies, shipped project links, open-source contributions, and frontend/mobile proof in one place.
-
-[Visit Portfolio](https://rampravesh-dev.vercel.app)
-
----
-
-## Certifications
-
-- React – The Complete Guide, including Hooks and Redux — Udemy
-- Node.js, Express & MongoDB — The Complete Backend Bootcamp — Udemy
-- ChatGPT Prompt Engineering for Developers — DeepLearning.AI
-
----
-
-## Connect
-
-- Portfolio: [rampravesh-dev.vercel.app](https://rampravesh-dev.vercel.app)
-- LinkedIn: [linkedin.com/in/ram-pravesh-singh](https://www.linkedin.com/in/ram-pravesh-singh)
-- GitHub: [github.com/rampravesh19-96](https://github.com/rampravesh19-96)
-- LeetCode: [leetcode.com/u/Mc2py9Qomi](https://leetcode.com/u/Mc2py9Qomi)
-- Email: [praveshram1204@gmail.com](mailto:praveshram1204@gmail.com)
+**Frontend Engineer · Giottus Technology Pvt Ltd**  
+Jan 2022 – Jun 2024
 
 ---
 
 <div align="center">
 
-Building frontend products with clean architecture, strong UX, and release-ready execution.
+### Let’s connect
+
+[Portfolio](https://rampravesh-dev.vercel.app) ·
+[LinkedIn](https://www.linkedin.com/in/ram-pravesh-singh) ·
+[GitHub](https://github.com/rampravesh19-96) ·
+[LeetCode](https://leetcode.com/u/Mc2py9Qomi) ·
+[Email](mailto:praveshram1204@gmail.com)
 
 </div>
